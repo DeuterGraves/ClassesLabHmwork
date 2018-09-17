@@ -35,7 +35,16 @@ class TestLibrary < MiniTest::Test
     # setup end
   end
 
+# get the books - full details
 
+
+#search book by name return book details
+
+# search book by name return rental details
+
+# add new book hash (renter and due date keys with no values yet)
+
+# update the rental information for a book
 
 
 
